@@ -57,4 +57,3 @@ All 3 Fuzzers configured in `advanced` guided mode attempted to break 16 invaria
 
 Some additional solvers have been added based upon real-world findings from my private audits.
 
-```
